@@ -1,8 +1,8 @@
 # Employee_Compensation_Regression_Challenge
 
-This Challenge was organized by https://dphi.tech/ from 7th may 2021 to 10th may 2021 . The purpose of this challenge was to predict the Total Compensation to employee by considering the following factors .
+DataSet Link : https://dphi.tech/challenges/data-sprint-33-employee-compensation/79/data
 
-Data Dictionary
+This Challenge was organized by https://dphi.tech/ from 7th may 2021 to 10th may 2021 . The purpose of this challenge was to predict the Total Compensation to employee by considering the following factors .
 
 OGC: Organization Group Code - Org Group is a group of Departments. For example, the Public Protection Org Group includes departments such as the Police, Fire, Adult Probation, District Attorney, and Sheriff.
 
