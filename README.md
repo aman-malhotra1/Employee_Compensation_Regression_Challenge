@@ -32,3 +32,9 @@ YT: Year Type - Fiscal (July through June) or Calendar (January through December
 
 Total_Compensation: The final compensation i.e. the sum of all salaries and benefits paid to City employees.
 
+### There is high correlation value of target column with Salary,Overtime and insurance columns.
+### Root mean Squared Error on Test set by using CAT BOOST model -> 6135.29
+### Root mean Squared Error on Test set by using Light GBM model -> 6135.29
+### Root mean Squared Error on Test set by using XG Boost model -> 5881.80
+
+
